@@ -38,3 +38,27 @@
 .banner-div img{
     width: 80vw;
 }
+.description{
+    width: 5vw;
+    height: 5vw;
+
+}
+
+.desc-img{
+    transform: rotate(90deg);
+    width: 10vw;
+    height: 10vw;
+} 
+
+.paragraph{
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: normal;
+    word-spacing: 10px;
+    text-shadow: 2px 1px 5px;
+    line-height: 40px;
+    text-align: justify;
+    color: blue(24, 24, 31);
+    background-color: blanchedalmond;
+}
+

@@ -9,7 +9,7 @@
 }
 
 .logoAndNav{
-    width: 100%;
+    width: 100%; w
     display: flex;
 }
 
@@ -60,5 +60,31 @@
     text-align: justify;
     color: blue(24, 24, 31);
     background-color: blanchedalmond;
+}
+
+.hero-div-2{
+    background-image: url('../images/banner\ pic.jpeg');
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 5px dotted blue;
+}
+
+.makeup{
+    width: 300px;
+    height: 300px;
+    border-radius: 30 px;
+}
+
+.makeup{
+    padding: 40px 40px 100px;
+    /* border: 2px solid gray; */
+    border-radius: 35px; /*affects the all the sides of the image*/
+}
+
+.makeup img{
+    width: 100%;
 }
 

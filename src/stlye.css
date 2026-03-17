@@ -59,6 +59,10 @@
     line-height: 40px;
     text-align: justify;
     color: blue(24, 24, 31);
-    background-color: blanchedalmond;
+    background-color: blanchedalmond(204, 46, 157);
+}
+
+h1{font-family: 'Courier New', Courier, monospace;
+font-size: 40px
 }
 
